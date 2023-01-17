@@ -1,4 +1,4 @@
-Oii eu sou a Amanda Fernandes!
+Hello, my name is Amanda Fernandes!
 
 - 🔭 I am currently working as a command center 
 - 📫  Contact me by email: amandafernandes20151@outlook.com;
